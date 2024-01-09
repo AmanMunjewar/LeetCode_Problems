@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "4. Median of Two Sorted Arrays",
+        "3. Longest Substring Without Repeating Characters",
+        "26. Remove Duplicates from Sorted Array",
+        "20. Valid Parentheses",
+        "2. Add two numbers",
+        "1870. Minimum Speed to Arrive on Time",
+        "15. 3Sum",
+        "14. Longest Common Prefix",
+        "6. Zigzag Conversion"
+    ],
+    "files.associations": {
+        "random": "cpp"
+    }
+}
