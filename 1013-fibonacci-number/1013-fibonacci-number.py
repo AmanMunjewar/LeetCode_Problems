@@ -1,10 +1,15 @@
 class Solution(object):
     def fib(self, n):
-        cach = {0:0, 1:1}
+        if n==0:
+            return 0
+        if n==1:
+            return 1
+        table = [0,1]
+
         def fibo(n):
-            if n in cach:
-                return cach[n]
-            else:
-                cach[n] = fibo(n-2) + fibo(n-1)
-                return cach[n]
-        return fibo(n)
+            for i in range(2,n+1):
+                f_n = table[i-1] + table[i-2]
+                table.append(f_n)
+        fibo(n)
+        return table[n]
+
