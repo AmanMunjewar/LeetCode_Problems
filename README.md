@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanMunjewar/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/AmanMunjewar/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanMunjewar/LeetCode_Problems/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AmanMunjewar/LeetCode_Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AmanMunjewar/LeetCode_Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AmanMunjewar/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
