@@ -4,12 +4,10 @@ class Solution(object):
             return 0
         if n==1:
             return 1
-        table = [0,1]
-
-        def fibo(n):
-            for i in range(2,n+1):
-                f_n = table[i-1] + table[i-2]
-                table.append(f_n)
-        fibo(n)
-        return table[n]
+        
+        arr = [0,1]
+        for i in range(2,n+1):
+            arr.append(arr[i-1] + arr[i-2])
+        
+        return arr[n]
 
